@@ -1,7 +1,7 @@
 online-merge-test
 =================
 
-![Star](images/star_full.png)
+![Star](images/star_full.png?raw=true)
 
 1. Create new branch
 2. Make some changes
